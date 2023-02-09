@@ -8,7 +8,8 @@ Hospital Website built using ReactJs, NodeJs, Express, and MYSQL.
 Application consists of 3 main modules. Admin, Doctor and Patient.
 User can only sign up as patient. Admin and Doctor have to be added into system by existing Admin for maximum security.
 Patient can book appointments which will then be visible on Doctor's end.
-We have also employed input constraints to enhance Parameter sanitization so that clean Data enters the Database.
+We have also employed input constraints to enhance Parameter sanitization so that clean Data enters the Database. Doctor can also prescribe medications and provide comments. 
+The whole project consists of 6-7 MYSQL tables.
 All technologies were learnt and implemented from scratch within 3 months.
 
 ## Plans for the future
@@ -18,6 +19,6 @@ and also to implement a more automatic kind of authentication and authorization 
 
 ## PS
 
-This project is the work of 3 university of students. I myself have contributed to this project by implementing the back-end side.
+This project is the work of 3 university of students. I myself have contributed to this project by implementing the back-end aspect of the application.
 
 
